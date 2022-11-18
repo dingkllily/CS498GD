@@ -13,9 +13,9 @@ Control the character using the following keys:
 
     A: Shift to the left lane
     D: Shift to the right lane
-    &#8592: Turn left
-    &#8594: Turn right
-    &#8595: Reduce the speed
+    ←: Turn left
+    →: Turn right
+    ↓: Reduce the speed
 
 ### Note 
 - Each meter counts for one point
