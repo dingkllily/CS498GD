@@ -1,7 +1,7 @@
 # Railway Surf
 
 ### Author
-[Jiayi Luo](luojy95@github.com), [Kelin Ding](dingkllily@github.com), [Zhongyi Liu](www.google.com)
+[Jiayi Luo](https://github.com/luojy95), [Kelin Ding](https://github.com/dingkllily), [Zhongyi Liu](https://github.com/)
 
 ### Introduction
 This is a endless running game under train and track environment. The goal of this game is to collect more coins, at the same time aviod hitting into a train or dropping off the tracks.
